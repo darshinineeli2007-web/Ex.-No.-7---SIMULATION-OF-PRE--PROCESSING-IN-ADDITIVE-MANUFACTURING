@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 07-09-2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,16 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1916" height="880" alt="image" src="https://github.com/user-attachments/assets/a61baab6-6da2-4989-b191-59fcb1ebf694" />
+<img width="1913" height="877" alt="image" src="https://github.com/user-attachments/assets/fa2954f3-9f52-4f93-9082-61d553daf321" />
+<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/bb7b635d-1169-49e0-9572-82097b942196" />
+<img width="1911" height="818" alt="image" src="https://github.com/user-attachments/assets/8e7b605d-2717-478b-b2b1-784bc305edb2" />
+<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/cc796e8a-9d64-46f2-a258-816fe9087d6c" />
+<img width="1917" height="770" alt="image" src="https://github.com/user-attachments/assets/ff9b02da-d7bb-4c1e-abf0-893837108d9b" />
 
-### Name:
-### Register Number:
+
+### Name:Neeli darshini
+### Register Number:212225230200
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
